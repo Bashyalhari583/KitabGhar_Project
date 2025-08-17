@@ -1,0 +1,162 @@
+[
+  {
+    "id":1,
+    "name":"Story Book",
+    "title":"lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "price":0,
+    "category":"Free",
+    "image":"../../public/freebook.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Science Wonders",
+    "title": "Discover the secrets of the universe through fascinating experiments.",
+    "price": 200,
+    "category": "Science",
+    "image":"../../public/freebook.jpg"
+  },
+  {
+    "id": 3,
+    "name": "History Guide",
+    "title": "A glance into the world’s greatest civilizations and their impact today.",
+    "price": 0,
+    "category": "Free",
+    "image":"../../public/freebook.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Cooking Magic",
+    "title": "Delicious recipes made simple for beginners and experts alike.",
+    "price": 250,
+    "category": "Cooking",
+    "image":"../../public/freebook.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Children Stories",
+    "title": "Heartwarming short stories to inspire imagination in young minds.",
+    "price": 0,
+    "category": "Free",
+    "image":"../../public/freebook.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Fantasy Realm",
+    "title": "Enter a magical kingdom where heroes and dragons clash.",
+    "price": 300,
+    "category": "Fantasy",
+    "image":"../../public/freebook.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Tech Trends",
+    "title": "Explore the latest innovations shaping the digital world.",
+    "price": 220,
+    "category": "Technology",
+    "image":"../../public/freebook.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Health & Wellness",
+    "title": "A guide to maintaining a balanced lifestyle with healthy habits.",
+    "price": 270,
+    "category": "Health",
+    "image":"../../public/freebook.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Poetry Bliss",
+    "title": "A collection of heartfelt poems on life, love, and dreams.",
+    "price": 0,
+    "category": "Free",
+    "image":"../../public/freebook.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Business Growth",
+    "title": "Strategies for entrepreneurs to scale and succeed in competitive markets.",
+    "price": 320,
+    "category": "Business",
+    "image":"../../public/freebook.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Travel Diary",
+    "title": "Discover breathtaking destinations across the globe.",
+    "price": 0,
+    "category": "Free",
+    "image":"../../public/freebook.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Mystery Night",
+    "title": "A suspenseful thriller full of unexpected twists and turns.",
+    "price": 280,
+    "category": "Mystery",
+    "image":"../../public/freebook.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Language Mastery",
+    "title": "Learn new languages with easy step-by-step lessons.",
+    "price": 190,
+    "category": "Education",
+    "image":"../../public/freebook.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Art & Design",
+    "title": "Unleash your creativity with inspiring art techniques.",
+    "price": 260,
+    "category": "Art",
+    "image":"../../public/freebook.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Classic Literature",
+    "title": "Rediscover timeless stories from great authors of the past.",
+    "price": 0,
+    "category": "Free",
+    "image":"../../public/freebook.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Motivation Boost",
+    "title": "Daily affirmations and stories to help you stay inspired.",
+    "price": 175,
+    "category": "Self-Help",
+    "image":"../../public/freebook.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Coding Essentials",
+    "title": "Master programming with hands-on examples and exercises.",
+    "price": 350,
+    "category": "Technology",
+    "image":"../../public/freebook.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Sports Legends",
+    "title": "Stories of determination and success from the world of sports.",
+    "price": 140,
+    "category": "Sports",
+    "image":"../../public/freebook.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Philosophy Thoughts",
+    "title": "Deep reflections on life, existence, and human nature.",
+    "price": 230,
+    "category": "Philosophy",
+    "image":"../../public/freebook.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Environment Matters",
+    "title": "Understanding climate change and ways to protect our planet.",
+    "price": 210,
+    "category": "Environment",
+    "image":"../../public/freebook.jpg"
+  }
+]
